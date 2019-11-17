@@ -1,1 +1,1 @@
-# Scibbler-ProjecT
+# Scribbler-ProjecT
